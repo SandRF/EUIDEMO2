@@ -1,0 +1,31 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/dragonBones/dragonBones.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/game/item/BtnSelect.js",
+		"bin-debug/game/MainSence.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/game/AboutSence.js",
+		"bin-debug/game/GoodSence.js",
+		"bin-debug/game/HeroSence.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/game/PlayerSence.js",
+		"bin-debug/game/SenceManager.js",
+		"bin-debug/game/item/BtnDefault.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/game/item/BtnsGroup.js",
+		"bin-debug/game/item/GoodItem.js",
+		"bin-debug/game/item/HeroItem.js",
+		"bin-debug/game/item/PlayerItem.js"
+	]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GoodItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="listItemBkgd_png"/>
+	<e:Image id="icon" x="32" y="17"/>
+	<e:Label id="nameGood" text="" x="154" y="24" size="20" textColor="0xE5C834"/>
+	<e:Label id="info" text="" x="122" y="65" size="20" textColor="0x4AC4D6"/>
+</e:Skin>

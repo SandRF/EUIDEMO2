@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="playerItemSkin" width="87" height="130" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image y="0" source="skillItemFrame_png" horizontalCenter="0"/>
+	<e:Label id="nameLab" text="" y="91" horizontalCenter="0" size="20"/>
+	<e:Image id="icon" y="10" x="10"/>
+</e:Skin>

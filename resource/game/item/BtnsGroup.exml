@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BtnsGroupSkin" width="460" height="80" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="btnGroup" left="0" right="0" top="0" bottom="0">
+		<ns1:BtnSelect id="mbtnPlayer"/>
+		<ns1:BtnSelect id="mbtnHero"/>
+		<ns1:BtnSelect id="mbtnGoods"/>
+		<ns1:BtnSelect id="mbtnAbout"/>
+		<e:layout>
+			<e:HorizontalLayout horizontalAlign="justify" gap="0"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

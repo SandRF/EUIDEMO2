@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeroSenceSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="bgListPage_jpg"/>
+	<e:Image x="174" y="134" source="herosTitle_png"/>
+	<ns1:BtnDefault id="btnReturn" x="25" y="130" skinName="BtnDefaultSkin"/>
+	<ns1:BtnDefault id="btnOk" x="380" y="130" skinName="BtnDefaultSkin"/>
+	<e:Scroller id="heroScroller" width="450" height="522" y="180" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" scrollPolicyV="on" horizontalCenter="0">
+		<e:List id="heroList"/>
+	</e:Scroller>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AboutSenceSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="commonBg_jpg"/>
+	<e:Rect width="480" height="800" fillAlpha="0.7"/>
+	<e:Group id="info" horizontalCenter="0" verticalCenter="0" scaleX="1" scaleY="1">
+		<e:Image source="about_png" x="0" y="0"/>
+		<ns1:BtnDefault id="btnClose" x="396" y="216"/>
+	</e:Group>
+</e:Skin>

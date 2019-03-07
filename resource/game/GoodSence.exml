@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GoodSenceSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<w:Config id="16812bbcd27" />
+	<e:Image source="bgListPage_jpg" />
+	<e:Image x="174.5" y="132" source="goodsTitle_png" />
+	<ns1:BtnDefault id="btnReturn" x="25" y="130" skinName="BtnDefaultSkin"/>
+	<e:Scroller id="goodsScroller" width="455" height="526" x="12" y="182" anchorOffsetX="0" anchorOffsetY="0">
+		<e:List id="goodsList" />
+	</e:Scroller>
+</e:Skin>

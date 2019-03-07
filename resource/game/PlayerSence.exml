@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerSenceSkin" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="commonBg_jpg"/>
+	<e:Image x="30.5" y="198" source="profileContent_png"/>
+	<e:Image y="132" source="profileTitle_png" x="174.5"/>
+	<e:Scroller id="scroll" width="413" height="123" y="500" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" scrollPolicyH="on" scrollPolicyV="off">
+		<e:List id="list_playerData">
+			<e:layout>
+				<e:HorizontalLayout/>
+			</e:layout>
+		</e:List>
+	</e:Scroller>
+	<ns1:BtnDefault id="btnReturn" x="25" y="130" skinName="BtnDefaultSkin"/>
+</e:Skin>

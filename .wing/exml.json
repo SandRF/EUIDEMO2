@@ -1,0 +1,24 @@
+{
+    "1680c7f178f": {
+        "path": "game\\MainSence.ts",
+        "class": "MainSence",
+        "parentPath": ""
+    },
+    "1680c85b24d": {
+        "path": "..\\resource\\eui_skins\\mbtnAbout.ts",
+        "class": "mbtnAbout",
+        "parentPath": "resource/eui_skins/ButtonSkin.exml"
+    },
+    "global": {
+        "globalAutoLayerMarkEnable": false,
+        "globalBindingDataTestObj": []
+    },
+    "16812bbcd27": {
+        "bindingDataTestObj": []
+    },
+    "16812bf85ee": {
+        "path": "..\\resource\\game\\item\\testbtn.ts",
+        "class": "testbtn",
+        "parentPath": "resource/eui_skins/ButtonSkin.exml"
+    }
+}

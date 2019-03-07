@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BtnSelectSkin" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="up,down" >
+	<e:Image source="mbtn_Bg_png" visible.down="false"/>
+	<e:Image source="mbtn_BgFc_png" visible.up="false"/>
+	<e:Image id="icon" source="mbtnAbout_png"/>
+</e:Skin>

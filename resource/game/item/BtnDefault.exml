@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BtnDefaultSkin" currentState="default" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" states="default,down">
+	<e:Image id="icon" source="" scaleX.down="1.2" scaleY.down="1.2" />
+</e:Skin>
